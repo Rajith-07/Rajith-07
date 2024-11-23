@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Rajith, a Computer and Communication Engineering student passionate about AI, Machine Learning, Quantum Computing, and Data Science.<br><br>💻 I enjoy building innovative solutions, from IoT prototypes to data-driven applications.<br>🎯 Currently exploring cloud computing and web development.<br>🚀 Aspiring to make strides in deep learning and quantum technologies.<br><br>📫 Reach me at
+# About Me:
+I’m Rajith, a Computer and Communication Engineering student passionate about AI, Machine Learning, Quantum Computing, and Data Science.<br><br>💻 I enjoy building innovative solutions, from IoT prototypes to data-driven applications.<br>🎯 Currently exploring cloud computing and web development.<br>🚀 Aspiring to make strides in deep learning and quantum technologies.<br><br>📫 Reach me at
 
 
 # 💻 Tech Stack:
