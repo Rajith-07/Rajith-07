@@ -1,5 +1,5 @@
 # About Me:
-I’m Rajith, a Computer and Communication Engineering student passionate about AI, Machine Learning, Quantum Computing, and Data Science.<br><br>💻 I enjoy building innovative solutions, from IoT prototypes to data-driven applications.<br>🎯 Currently exploring cloud computing and web development.<br>🚀 Aspiring to make strides in deep learning and quantum technologies.<br><br>📫 Reach me at ![](https://github.com/Rajith-07)
+I’m Rajith, a Computer and Communication Engineering student passionate about AI, Machine Learning, Quantum Computing, and Data Science.<br><br>💻 I enjoy building innovative solutions, from IoT prototypes to data-driven applications.<br>🎯 Currently exploring cloud computing and web development.<br>🚀 Aspiring to make strides in deep learning and quantum technologies.<br><br>📫 Reach me at https://github.com/Rajith-07/Rajith-07
 
 
 # 💻 Tech Stack:
@@ -13,7 +13,7 @@ I’m Rajith, a Computer and Communication Engineering student passionate about 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rajith-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Rajith-07&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rajith-07&icon=8&color=0)](https://visitcount.itsvg.in)
