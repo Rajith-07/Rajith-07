@@ -9,8 +9,6 @@ I’m Rajith, a Computer and Communication Engineering student passionate about 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajith-07&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajith-07&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rajith-07&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
