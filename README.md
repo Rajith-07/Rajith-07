@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajith</h1>
+<h1 align="center">Hi 👋, I'm Rajith S</h1>
 <h3 align="center">A Computer & Communication Engineer | Specializing in AI, Web Development, and Quantum Technologies | Lifelong Learner</h3>
 
 - 🔭 I’m currently working on **Skin Cancer Classification using Vision Transformer**
