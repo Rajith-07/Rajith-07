@@ -1,15 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rajith S</h1>
-<h3 align="center">A Computer & Communication Engineer | Specializing in AI, Web Development, and Quantum Technologies | Lifelong Learner</h3>
+<h1 align="center">Rajith S</h1>
+<h3 align="center">Computer & Communication Engineer | Specializing in AI, Software Development and Cloud Solutions</h3>
 
-- 🔭 I’m currently working on: **Skin Cancer Classification using Vision Transformer**
-
-- 🌱 I’m currently learning: **Web Development**, **Quantum Computing**
-
-- 👯 I’m looking to collaborate on: **Portfolio projects on Deep Lerning**
-
-- 👨‍💻 All of my projects are available at: [https://github.com/Rajith-07](https://github.com/Rajith-07)
-
-- 📫 How to reach me: **rajithsrr@gmail.com**
+- Reach me: **rajithsrr@gmail.com**
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
