@@ -1,5 +1,5 @@
-<h1 align="center">Rajith S</h1>
-<h3 align="center">Computer & Communication Undergrad | Specializing in AI, SDE and Cloud & DevOps</h3>
+<h1 align="center">RAJITH S</h1>
+<h3 align="center">Pre-Final | Computer & Communication | Specializing in AI, SDE and Cloud & DevOps</h3>
 
 - Reach me: **rajithsrr@gmail.com**
 ---
