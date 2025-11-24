@@ -1,7 +1,9 @@
 <h1 align="center">RAJITH S</h1>
-<h3 align="center">Pre-Final | Computer & Communication | Specializing in AI, SDE and Cloud & DevOps</h3>
+<h3 align="center">Pre-Final | Computer & Communication | Developing Solutions in AI, SDE and Cloud & DevOps</h3>
 
-- Reach me: **rajithsrr@gmail.com**
+Reach me at:
+- [**rajithsrr@gmail.com**↗](mailto:rajithsrr@gmail.com)
+- [Linkedin↗](https://www.linkedin.com/in/rajith-s-582697235/)
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
